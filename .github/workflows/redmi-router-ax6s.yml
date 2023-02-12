@@ -5,7 +5,7 @@
 # Youtube Channel: https://goo.gl/fvkdwm 
 #=================================================
 
-name: Build_redmi-router-ax6s
+name: Build_redmi-router-ax6s_Mini
 
 # Add a button to trigger the workflow
 on: 
